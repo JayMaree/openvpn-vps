@@ -8,6 +8,9 @@ as published by the Free Software Foundation.
 
 This script will install a basic VPN setup.
 
+# Requirements
+A linux based VPS. Really, that's all.
+
 # Manual
 1. Download & install an OpenVPN client on your local machine
 2. Download the client.opvn from your VPS to your local machine, and put it in
