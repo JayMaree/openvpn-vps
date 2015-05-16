@@ -8,6 +8,14 @@ as published by the Free Software Foundation.
 
 This script will install a basic VPN setup.
 
+# Manual
+1. Download & install an OpenVPN client on your local machine
+2. Download the client.opvn from your VPS to your local machine, and put it in
+the config folder of the application. If you use the OpenVPN client, put it
+in C:\Program Files\OpenVPN\config (Windows)
+3. Connect the client, and you're done
+4. Start browsing safe and secured from any Free Wifi location
+
 # Useful information
 * Local subnet 10.8.0.0/24 will be used
 * Port 1194 will be default ( change if you would like to)
